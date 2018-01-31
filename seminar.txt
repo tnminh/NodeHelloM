@@ -1,0 +1,48 @@
+lời nói đầu:
+mục tiêu của bài seminar.
+Có thể nhiều bài.
+mục tiêu của bài đầu:
+-không phải là bài hướng dẫn  về nodejs: muốn a thì làm b.., mì lăn liền
+-hướng dẫn có thể tự mình tìm hiểu về node js
+bài sẽ thiên về lý thuyết, khái niệm
+
+Khái niệm được hiểu một cách chủ quan, có thể đúng, có thể sai
+Nếu sai:
+
+
+Es6:
+là phiên bản mới của javascirpt ra đời vào 2015
+với nhiều tính mới, cú pháp mới
+
+2 tính mới muốn giới thiệu:
+-class
+-modules;
+
+class:
+trong các phiên bản javascript trước
+thì không tồn tại khái niệm class
+Chỉ có một thứ tương tự gần giống class là function 
+ví dụ
+
+Trên es6 đưa khái niệm class vào javascript
+khái niệm này được dùng rất nhiều trong document nodejs
+.
+modules:
+trên jsp, html có thể import nhiều file javascirpt
+trên javascript làm sao có thể import javascritp
+=> ra đời module;
+một file js include được gọi là 1 module
+require=> tham chiếu đến file
+
+cách tạo module
+ví dụ nodejs.org
+ý nghĩa tạo module business,dao...
+
+Tổng quan về node js:
+server  side framework, tương tự dotnet#, 
+node js chạy trên nhiều nền tảng windows,linux,macox
+no
+
+
+
+
